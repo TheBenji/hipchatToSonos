@@ -1,0 +1,9 @@
+{
+  "apiKey": "HIPCHAT ADMIN KEY",
+  "ipAddress": "SONOS IP",
+  "port": 1400,
+  "roomID": "HIPCHAT ROOM ID",
+  "msgFrom": "Sonos",
+  "msgColor": "purple",
+  "pollInterval": 15000
+}
